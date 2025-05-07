@@ -1,0 +1,10 @@
+
+Title: Enhancing Road Safety with AI-Driven Traffic Accident Analysis and Prediction
+
+Abstract:
+This project focuses on using artificial intelligence techniques to analyze and predict traffic accidents, aiming to enhance road safety. By leveraging machine learning models on historical accident data, the system identifies patterns and potential risk zones, offering actionable insights for urban planning and law enforcement.
+
+Contents:
+- Report (this file)
+- Python code for data analysis and prediction
+- Sample dataset (CSV)
